@@ -1,0 +1,18 @@
+make sure you have cv2 installed, if not, run bellow command as an administrator
+"pip install opencv-python"
+
+------------How to run 
+
+take a picture of yourself and save it in the images folder, at least 3 to 5 to improve detection
+name of picture is how the program will identify the face, so pick names resembling yours since
+u cant save pictures with the same name
+
+open "main.py" and run/excecute it
+
+note:
+if you are unable to run project using spider, u should install opencv through anaconda console
+to do this, paste line 2 above in the anaconda prompt and press enter
+
+this version still struggles to identify faces, so make sure u take picture in same place u want 
+to test the program.
+
